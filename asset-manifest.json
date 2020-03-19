@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hook-datafetching/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hook-datafetching/static/js/main.fd2cb775.chunk.js",
+    "main.js.map": "/hook-datafetching/static/js/main.fd2cb775.chunk.js.map",
+    "runtime-main.js": "/hook-datafetching/static/js/runtime-main.a515bf25.js",
+    "runtime-main.js.map": "/hook-datafetching/static/js/runtime-main.a515bf25.js.map",
+    "static/js/2.c7f3345f.chunk.js": "/hook-datafetching/static/js/2.c7f3345f.chunk.js",
+    "static/js/2.c7f3345f.chunk.js.map": "/hook-datafetching/static/js/2.c7f3345f.chunk.js.map",
+    "index.html": "/hook-datafetching/index.html",
+    "precache-manifest.2c80ee95126177129fb0208d77fa75ae.js": "/hook-datafetching/precache-manifest.2c80ee95126177129fb0208d77fa75ae.js",
+    "service-worker.js": "/hook-datafetching/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hook-datafetching/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c7f3345f.chunk.js.LICENSE.txt": "/hook-datafetching/static/js/2.c7f3345f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a515bf25.js",
+    "static/js/2.c7f3345f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fd2cb775.chunk.js"
+  ]
+}
